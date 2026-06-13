@@ -32,7 +32,7 @@ The data preparation process included:
 - Power BI Web
 
 ## Files
-
+![Dashboard](Dashboard.png)
 - `data/` – Cleaned dataset used for the dashboard
 - `scripts/` – Python notebook for data preparation
 - `dashboard/` – Dashboard screenshots and Power BI links
