@@ -33,7 +33,7 @@ The data preparation process included:
 
 ## Files
 - [Power BI dashboard](Dashboard.pbix)
-- [Data preparation notebook](Dashboard.ipynb)
+- [Data preparation notebook](Dashboard%20coding.ipynb)
 - [Cleaned dataset (CSV)](master_population_data_clean.csv)
 - [Full project report (PDF)](Dashboard%20Report.pdf)
 - [Dashboard screenshot](Dashboard.png)
