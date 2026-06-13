@@ -33,7 +33,5 @@ The data preparation process included:
 
 ## Files
 ![Dashboard](Dashboard.png)
-- `data/` – Cleaned dataset used for the dashboard
-- `scripts/` – Python notebook for data preparation
-- `dashboard/` – Dashboard screenshots and Power BI links
-- `report/` – Final project report
+[Full report (PDF)](Dashboard%20Report.pdf)
+[Data prep notebook](Dashboard.ipynb)
