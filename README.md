@@ -33,5 +33,4 @@ The data preparation process included:
 
 ## Files
 ![Dashboard](Dashboard.png)
-[Full report (PDF)](Dashboard%20Report.pdf)
-[Data prep notebook](Dashboard.ipynb)
+[Full report (PDF)](Dashboard%20Report.pdf) · [Data prep notebook](Dashboard.ipynb)
